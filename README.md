@@ -24,10 +24,10 @@ This repository contains comprehensive technical documentation, assembly manuals
 | **Flight Controller** | Pixhawk 2.4.8 (Firmware: Pixhawk 1) |
 | **Ground Control Software** | Mission Planner / QGroundControl |
 | **Supported Frames** | F450 (Quad-X) & F550 (Hexa-X) |
-| **Telemetry Kit** | YoungRC 915MHz 100MW RC Air and Ground Data Modules |
-| **GPS & Compass** | Readytosky M10 GPS Module with External Compass (SPI External / I2C Internal) |
+| **Telemetry Kit** | FPV Radio 433MHz 100MW RC Air and Ground Data Modules |
+| **GPS & Compass** | M8N GPS Module with External Compass (SPI External / I2C Internal) |
 | **Power Plant** | Brushless DC Motors (e.g., A2212 1000kV) with 40A Brushless ESCs (5V/3A BEC) |
-| **Battery Source** | LiPo 3S 11.1V 4200mAH (Supports up to 4S) |
+| **Battery Source** | LiPo 3S 11.1V 5600mAH (Supports up to 4S) |
 
 ---
 
