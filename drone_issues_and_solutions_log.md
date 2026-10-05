@@ -1,5 +1,5 @@
 # <center>Technical Testing Log: System Glitches, Parameter Fixes, and RC Control Profiles</center>
-### <center>By M.Anas Baig (23ES020), Usman Zubair (22ES025) & Daniyal Arain (22ES071)</center>
+### <center>By M.Anas Baig (23ES020), Usman Zubair (22ES025) & Daniyal Arain (22ES071) Supervisor: Abbas Shah Syed</center>
 This document details the software bugs, sensor adjustments, parameter configurations, and testing profiles recorded during bench optimization of the **F450 Quadcopter** and **F550 Hexacopter** configurations.
 
 ---
