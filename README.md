@@ -10,7 +10,7 @@ This repository contains comprehensive technical documentation, assembly manuals
 *   **[`f450_f550_assembly_and_precheck_guide.md`](./f450_f550_assembly_and_precheck_guide.md)**: A step-by-step master assembly manual covering PDB soldering, structural frame assembly, hardware wiring layout configurations (Quad-X vs. Hexa-X), and bench calibration routines.
 *   **[`drone_issues_and_solutions_log.md`](./drone_issues_and_solutions_log.md)**: A detailed diagnostic log documenting critical parameter overrides, battery failsafe benchmarks, transmitter channel mapping, and software fixes for known glitches encountered during bench testing.
 
-![Descriptive Alt Text](images/Quad & Hexacopter.jpeg)
+![Descriptive Alt Text](images/Quad_&_Hexacopter.jpeg)
 
 
 ---
