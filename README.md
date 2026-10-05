@@ -74,3 +74,7 @@ BARO_OP = 0               # Overrides altitude data mismatch errors
 
 ## 🤝 Contributing
 If you are testing variations of this hardware kit (such as alternative power modules or different ESC signaling rates), feel free to open a **Pull Request** or log structural updates in the issue tracker to expand the `drone_issues_and_solutions_log.md`.
+
+##📜 License 
+Licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0). You are free to fork, modify, and redistribute this work, but you may not use it for commercial purposes or sales.
+
