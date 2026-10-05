@@ -1,5 +1,5 @@
 # <center>Comprehensive Drone Assembly and Pre-Flight Guide: F450 Quadcopter & F550 Hexacopter</center>
-### <center>By M.Anas Baig (23ES020), Usman Zubair (22ES025) & Daniyal Arain (22ES071)</center>
+### <center>By M.Anas Baig (23ES020), Usman Zubair (22ES025) & Daniyal Arain (22ES071) Supervisor: Abbas Shah Syed</center>
 
 This manual provides structural instructions for building, wiring, and configuring multirotors based on the **F450 Quadcopter** and **F550 Hexacopter** chassis configurations using a **Pixhawk 2.4.8** flight controller and **Mission Planner** ground station software.
 
