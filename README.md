@@ -1,5 +1,5 @@
 # Pixhawk F450 Quadcopter & F550 Hexacopter Guide
-
+### <center>By M.Anas Baig (23ES020), Usman Zubair (22ES025), Daniyal Arain (22ES071) & Prof. Abbas Shah Syed</center>
 
 This repository contains comprehensive technical documentation, assembly manuals, pre-flight checklists, and troubleshooting logs for building and configuring **F450 (Quadcopter)** and **F550 (Hexacopter)** drones using the **Pixhawk 2.4.8** flight controller and **Mission Planner** Ground Control Station (GCS).
 
